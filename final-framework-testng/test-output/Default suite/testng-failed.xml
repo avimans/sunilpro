@@ -5,11 +5,9 @@
     <classes>
       <class name="com.training.sanity.tests.loginorange">
         <methods>
-          <include name="directoryy"/>
+          <include name="Admin"/>
           <include name="afterTest"/>
-          <include name="dash"/>
           <include name="beforeTest"/>
-          <include name="pim"/>
         </methods>
       </class> <!-- com.training.sanity.tests.loginorange -->
     </classes>
